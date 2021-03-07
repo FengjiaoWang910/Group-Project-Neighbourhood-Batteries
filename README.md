@@ -20,8 +20,8 @@ the following areas:
 - setup of tooling for development, management of tasks, the project repository
 - milestones for each Project Audit
 
-Please reach [ConOps document] for detals.
-https://docs.google.com/document/d/1LYySTsH7DuK5pleI2rarTnKe5FEYBMHuYxFekf6a_WY
+Please reach [ConOps document](https://docs.google.com/document/d/1LYySTsH7DuK5pleI2rarTnKe5FEYBMHuYxFekf6a_WY) for detals.
+
 
 ## Contributor
 
